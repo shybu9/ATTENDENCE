@@ -1,0 +1,18 @@
+body{background-color:rgb(190,180,225);}
+pre{
+ color:red;   ;
+}
+.white{background-color:white;}
+
+#border{
+    border-style:grove;
+    border-radius:5px;
+}
+ .email{
+     background:transparent;
+     border:0px;
+     border-bottom:1px solid #b2beb5;
+     padding:20px 10px;
+     margin:0px 10px; 
+    
+ }
